@@ -484,3 +484,31 @@ background: rgb(198, 228, 214);
     font-size: 12px;
     color: #777;
 }
+.footer-p{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 500;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+}
+.pic{
+    display: flex;
+}
+.footer-pic-1{
+    margin-left: 30px;
+}
+.footer-pic-2{
+    margin-left: 30px;
+}
+.footer-pic-3{
+    margin-left: 30px;
+}
+.final-footer{
+    margin-left: 500px;
+    margin-right: 86px;
+    margin-top: 12px;
+
+
+}
