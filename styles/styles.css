@@ -399,30 +399,14 @@ background: rgb(255, 255, 255);
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background 0.3s ease;
+    transition:  0.3s ease;
+    margin-bottom: 10px;
 }
 
 .done-button:hover {
     background: #005f00;
 }
-.body-h-2{
-    color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: center;
-}
-.body-p{
-    color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: center;
-}
+
 /* footer */
 .footer-body-1{
     border-radius: 24px;
